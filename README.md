@@ -1,4 +1,3 @@
-test_branch
+# Test Repo
 
-
-this file made by auto-gpt
+This is a test repository. We use this repo to demonstrate and test our software engineering capabilities.
